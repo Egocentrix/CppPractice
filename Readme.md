@@ -1,0 +1,1 @@
+Some small programs to practice C++ (and be a reference for myself)
