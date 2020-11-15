@@ -3,5 +3,6 @@ project(CppPractice VERSION 0.1.0)
 
 add_executable(HelloWorld HelloWorld.cpp)
 add_executable(ObjectManager ObjectManager.cpp)
+add_executable(Vector Vector.cpp)
 
 
